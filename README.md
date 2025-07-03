@@ -7,7 +7,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá eu sou Lucas Lopes, tenho 30 anos Casado e tenho 1 filha de 6 anos e um Bebê a caminho, sou natural de Guarulhos,SP. Atualmente estou cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas no Eniac. Sou apaixonada por tecnologia e estou Procurando da minha primeira experiencia como Dev "
+Olá eu sou Lucas Lopes, tenho 30 anos Casado e tenho 1 filha de 6 anos e um Bebê a caminho, sou natural de Guarulhos,SP. Atualmente estou cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas no Eniac. Sou apaixonada por tecnologia e estou a procura da minha primeira experiencia como Dev "
 
 <p 
     </a> 
