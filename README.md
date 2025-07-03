@@ -1,19 +1,28 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Lucas+Lopes+;Tenho+30+Anos+de+Idade;Eu+sou+de+Guarulhos,+SP;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas+;Seja+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg) 
 
 
-<div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-11-1994&show_icons=true&count_private=true&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Lopes github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-11-1994&layout=compact&hide_border=true&title_color=CC0000&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+# 👨🏾‍💻 Lucas Lopes
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-11-1994&bg_color=000000&color=c71121&line=00bfbf&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**`Desenvolvedor FullStack`**
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lucas-11-1994&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+Olá eu sou Lucas Lopes, tenho 30 anos Casado e tenho 1 filha de 6 anos e um Bebê a caminho, sou natural de Guarulhos,SP. Atualmente estou cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas no Eniac. Sou apaixonada por tecnologia e estou Procurando da minha primeira experiencia como Dev "
+
+<p 
+    </a> 
+    <a href="https://github.com/Lucas-11-1994?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" 
+    src="https://custom-icon-badges.demolab.com/github/stars/Lucas-11-1994?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+    </a>
+    <a href="https://github.com/Lucas-11-1994?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" 
+    src="https://custom-icon-badges.demolab.com/github/followers/Lucas-11-1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/lucas-lopes-4b5a15328/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:lucaas.lopees2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    </a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg) 
 
 
 
@@ -35,6 +44,16 @@
   <img align="center" alt="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
   <img align="center" alt="Git"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> -->
   </div>
+
+  ### 📊 Estatísticas
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-11-1994&show_icons=true&count_private=true&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&locale=pt-br" alt="Lucas Lopes github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-11-1994&layout=compact&hide_border=true&title_color=CC0000&text_color=c9d1d9&bg_color=0d1117&custom_title=Tecnologias&langs_count=9" />
+</div>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-11-1994&bg_color=000000&color=c71121&line=00bfbf&point=0a855c&area=true&hide_border=true )](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
